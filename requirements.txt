@@ -1,0 +1,7 @@
+huggingface_hub==0.22.2
+langchain
+langchain_community
+tiktoken
+chromadb
+langchain-groq
+groq
